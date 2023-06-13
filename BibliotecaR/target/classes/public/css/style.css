@@ -1,0 +1,37 @@
+nav{
+    background-color: #d9d9d9;
+}
+
+nav div div {
+    background-color: #d9d9d9;
+    color: #542f70;
+}
+
+.nav-a{
+    color: #542f70;
+}
+
+#Jumbotron{
+    background-image: url('../img/fondo3.jpg');
+    background-repeat: repeat-y;
+    background-size: 85rem;
+}
+
+#Jumbotron h1, h4 {
+    color: aliceblue;
+}
+
+.col-rosa {
+    background-color: #fbe3e3;
+}
+
+form div div div{
+    background-color: #ffffeb;
+}
+
+footer div {
+    background-color: #d9d9d9;
+    color: #542f70;
+}
+
+
